@@ -1,4 +1,4 @@
-# list_search using provider state management
+# list search using provider state management
 
 A new Flutter project.
 
