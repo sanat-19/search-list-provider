@@ -16,9 +16,6 @@ class CountryProvider extends ChangeNotifier {
     Country("Canada"),
   ];
 
-  String _searchString = "";
-  String get searchedString => _searchString;
-
   List<Country> searchedList = [];
 
   void changeSearchString(String search) {
